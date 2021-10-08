@@ -1,0 +1,65 @@
+.box-container{
+    width: 900px;
+    height:630px;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    margin:0 230px 0 230px;
+    box-shadow: grey 20px 20px 50px, -30px 30px 30px rgba(0,0,0,0.3);
+    
+    
+}
+
+.text{
+    width:500px;
+    height:100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.title{
+    text-align: center;
+    width:200px;
+    text-shadow: grey -3px -3px 3px;
+}
+
+
+
+
+
+
+.Beauty{
+    color:silver;
+    text-align: center;
+    text-shadow: 0 0 1px;
+    font-size: 25px;
+}
+
+.vw{
+    color: black;
+    border:solid 1px  red;
+    border-radius: 50px;
+    /* border-color: red; */
+    padding:15px 30px 15px 30px;
+    /* border-width: 1px; */
+    text-decoration: none;
+    
+}
+.img{
+   
+    background-image:url(photo1.jfif );
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    height:630px;
+    width: 650px;
+}
+
+body{
+   
+    margin:0;
+    background-color: whitesmoke;
+}

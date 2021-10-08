@@ -1,0 +1,58 @@
+
+.work-container{
+    box-shadow: 30px 30px 30px rgba(0,0,0,0.3) , -30px 30px 30px rgba(0,0,0,0.3);
+    padding:0 0px 10px 0px;
+    margin:0 auto 50px auto;
+    width:900px;
+    background-color: white;
+}
+
+
+
+
+
+.title{
+   
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background-color: rgb(59, 59, 59) ;
+   height:80px;
+}
+
+
+.title1{
+    border-right-style: dotted;
+    border-left-style:dotted;
+    border-width: 1px;
+    border-color: white;
+    color:white;
+    padding:0 10px;
+}
+
+
+
+
+
+.photo{
+    width:900px;
+    height:75vh;
+    display: block;
+}
+
+.get{
+    
+    text-align: center;
+    margin:0 0 50px 0;
+    
+    
+}
+.link{
+    text-decoration: none;
+}
+
+body{
+    margin:0 0 0 0;
+    display: block;
+    background-color:whitesmoke;
+}
