@@ -48,6 +48,12 @@
     text-decoration: none;
     
 }
+
+.vw:hover{
+    background-color: black;
+    color: white;
+}
+
 .img{
    
     background-image:url(photo1.jfif );
